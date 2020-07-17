@@ -207,13 +207,5 @@ function handleFireButton() {
     guessInput.value = "";
 }
 
-function reload() {
-    var messageArea2 = document.getElementById("messageArea2");
-
-    messageArea2.innerHTML = "Reload?";
-    messageArea2.addEventListener("click");
-}
-
-reload();
 
 
