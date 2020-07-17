@@ -1,3 +1,3 @@
-# battleship
+# Battleship
 
-Battleship game created using javascript, html and css, using the O'Reilly Head First Javascript Programming guide
+Battleship game created with javascript, html and css, using the O'Reilly Head First Javascript Programming book
